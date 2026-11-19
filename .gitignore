@@ -1,0 +1,8 @@
+# Compiled programs and intermediate files
+/build/
+*.o
+*.out
+
+# Operating-system files
+.DS_Store
+Thumbs.db
