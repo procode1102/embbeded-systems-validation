@@ -1,4 +1,4 @@
-# Systems Engineering Course
+# Firmware and Linux Kernel Engineering
 
 My exercises and notes while learning C, Linux, and systems engineering.
 
