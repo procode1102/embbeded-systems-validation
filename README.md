@@ -1,4 +1,4 @@
-# Firmware and Linux Kernel Engineering
+# ASIC Design, Firmware and Linux Kernel Engineering
 
 My exercises and notes while learning C, Linux, and systems engineering.
 
