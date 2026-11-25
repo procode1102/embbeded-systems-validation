@@ -15,6 +15,6 @@ int main(void){//program entry point
 	printf("subtraction: %u\n", a - b);
 	printf("multiplication: %u\n", a * b);
 	printf("integer division: %u\n", a / b);
-	printf("remainder: %u\n", a % b);
+	printf("remainder: %u\n\n", a % b);
 	return 0;//returns a succesful compilation and closes function body.
 }
