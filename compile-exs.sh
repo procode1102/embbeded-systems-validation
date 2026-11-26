@@ -22,3 +22,9 @@ gcc -std=c11 -Wall -Wextra -Wpedantic firmware/ex-03-conditionals/main.c -o buil
 ./build/firmware/ex-03-conditionals/main
 ###
 
+echo "ex04: unsigned int variables within loops..."
+
+gcc -std=c11 -Wall -Wextra -Wpedantic firmware/ex-04-loops/main.c -o build/firmware/ex-04-loops/main
+
+./build/firmware/ex-04-loops/main
+
